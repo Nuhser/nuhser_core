@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:peaceful_mobs",
+    "#minecraft:hostile_mobs"
+  ]
+}
