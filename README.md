@@ -18,7 +18,7 @@ Here's a list of all nuhser-datapacks and their UNID (Unique-Nuhser-ID):
 | Speedpaths | speedpaths | 8 |
 | Multiplayer Sleep | multiplayer_sleep | 9 |
 | Anti Collision | anti_collision | 10 |
-| [Admin Book](https://github.com/Nuhser/admin_book "Admin Book) | admin_book | 11 |
+| [Admin Book](https://github.com/Nuhser/admin_book "Admin Book") | admin_book | 11 |
 | Grave Stones | grave_stones | 12 |
 | Biome Detector | biome_detector | 13 |
 | *Mutating Phantoms* | mutating_phantoms | 14 |
