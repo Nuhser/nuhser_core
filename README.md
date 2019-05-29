@@ -11,7 +11,7 @@ Here's a list of all nuhser-datapacks and their UNID (Unique-Nuhser-ID):
 | Datapack | Namespace | UNID |
 | -------- | --------- | :----: |
 | Nuhser-Core | nuhser_core | 0 |
-| More Mobheads | more_mob_heads | 2 |
+| [More Mob Heads](https://github.com/Nuhser/more_mob_heads "More Mob Heads") | more_mob_heads | 2 |
 | [Nuhser Knowledge](https://github.com/Nuhser/nuhser_knowledge "Nuhser Knowledge") | nuhser_knowledge | 3 |
 | Better Armor Stands | better_armor_stands | 4 |
 | Auto Plant | auto_plant | 5 |
