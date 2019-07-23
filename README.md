@@ -15,7 +15,7 @@ Here's a list of all nuhser-datapacks and their UNID (Unique-Nuhser-ID):
 | [Nuhser Knowledge](https://github.com/Nuhser/nuhser_knowledge "Nuhser Knowledge") | nuhser_knowledge | 3 |
 | Better Armor Stands | better_armor_stands | 4 |
 | [Auto Plant](https://github.com/Nuhser/auto_plant "Auto Plant") | auto_plant | 5 |
-| Better Concrete | better_concrete | 6 |
+| [Better Concrete](https://github.com/Nuhser/better_concrete "Better Concrete") | better_concrete | 6 |
 | Modify Mobs | modify_mobs | 7 |
 | Speedpaths | speedpaths | 8 |
 | Multiplayer Sleep | multiplayer_sleep | 9 |
