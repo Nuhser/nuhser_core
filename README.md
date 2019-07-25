@@ -1,6 +1,7 @@
-# nuhser_core (v3.0.2)
+# Nuhser Core
 
 ### by Nuhser
+
 <br>
 
 This datapack is made for Minecraft 1.14.X.  
