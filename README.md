@@ -18,11 +18,11 @@ Here's a list of all nuhser-datapacks and their UNID (Unique-Nuhser-ID):
 | [Better Concrete](https://github.com/Nuhser/better_concrete "Better Concrete") | better_concrete | 6 |
 | Modify Mobs | modify_mobs | 7 |
 | Speedpaths | speedpaths | 8 |
-| Multiplayer Sleep | multiplayer_sleep | 9 |
+| [Multiplayer Sleep](https://github.com/Nuhser/multiplayer_sleep "Multiplayer Sleep") | multiplayer_sleep | 9 |
 | Anti Collision | anti_collision | 10 |
 | [Admin Book](https://github.com/Nuhser/admin_book "Admin Book") | admin_book | 11 |
 | Grave Stones | grave_stones | 12 |
 | Biome Detector | biome_detector | 13 |
-| *Mutating Phantoms* | mutating_phantoms | 14 |
+| ~~Mutating Phantoms~~ | mutating_phantoms | 14 |
 
 UNID 1 is reserved to call the help message.
