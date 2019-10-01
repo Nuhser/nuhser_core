@@ -22,7 +22,7 @@ Here's a list of all nuhser-datapacks and their UNID (Unique-Nuhser-ID):
 | [Multiplayer Sleep](https://github.com/Nuhser/multiplayer_sleep "Multiplayer Sleep") | multiplayer_sleep | 9 |
 | Anti Collision | anti_collision | 10 |
 | [Admin Book](https://github.com/Nuhser/admin_book "Admin Book") | admin_book | 11 |
-| Grave Stones | grave_stones | 12 |
+| [Grave Stones](https://github.com/Nuhser/grave_stones "Grave Stones") | grave_stones | 12 |
 | Biome Detector | biome_detector | 13 |
 | ~~Mutating Phantoms~~ | mutating_phantoms | 14 |
 
