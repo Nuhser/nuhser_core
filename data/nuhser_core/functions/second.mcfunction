@@ -14,5 +14,8 @@ function nuhser_core:help
 #run all other #nuhser_core:second functions
 function #nuhser_core:second
 
+#reset the tracking scoreboards
+scoreboard players reset @a[scores={nc_sneak_second=1..}] nc_sneak_second
+
 #reschedule second-function
 schedule function nuhser_core:second 1s

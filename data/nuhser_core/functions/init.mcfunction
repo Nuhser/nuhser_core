@@ -9,7 +9,8 @@ tellraw @a ["",{"text":"nuhser_core: Start initialization...","color":"dark_purp
 tellraw @a ["",{"text":"nuhser_core: Creating tracking-scoreboards for sneaking and carrot_on_a_stick...","color":"yellow"}]
 
 scoreboard objectives add nc_coat_usage minecraft.used:minecraft.carrot_on_a_stick
-scoreboard objectives add nc_sneak minecraft.custom:minecraft.sneak_time
+scoreboard objectives add nc_sneak_tick minecraft.custom:minecraft.sneak_time
+scoreboard objectives add nc_sneak_second minecraft.custom:minecraft.sneak_time
 
 #create trigger for help-functions
 tellraw @a ["",{"text":"nuhser_core: Creating trigger for help-functions...","color":"yellow"}]
