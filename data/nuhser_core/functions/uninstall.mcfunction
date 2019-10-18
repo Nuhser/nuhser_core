@@ -12,6 +12,7 @@ tellraw @a ["",{"text":"Removing all scoreboards for Nuhser Core...","color":"ye
 scoreboard objectives remove nc_coat_usage
 scoreboard objectives remove nc_sneak_tick
 scoreboard objectives remove nc_sneak_second
+scoreboard objectives remove nc_square
 scoreboard objectives remove nuhser_rng
 scoreboard objectives remove nuhser_constants
 scoreboard objectives remove nuhser_id

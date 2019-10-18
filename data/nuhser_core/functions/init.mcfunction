@@ -28,6 +28,11 @@ scoreboard players set $multiplier nuhser_rng 252149039
 scoreboard players set $increment nuhser_rng 100000
 scoreboard players set $max nuhser_rng 100
 
+# create math scoreboards
+tellraw @a ["",{"text":"nuhser_core: Setting up math...","color":"yellow"}]
+
+scoreboard objectives add nc_square dummy
+
 #create the UNID scoreboard
 tellraw @a ["",{"text":"nuhser_core: Setting up the Unique-Nuhser-ID system...","color":"yellow"}]
 
