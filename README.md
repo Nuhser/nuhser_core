@@ -25,5 +25,6 @@ Here's a list of all nuhser-datapacks and their UNID (Unique-Nuhser-ID):
 | [Grave Stones](https://github.com/Nuhser/grave_stones "Grave Stones") | grave_stones | 12 |
 | Biome Detector | biome_detector | 13 |
 | ~~Mutating Phantoms~~ | ~~mutating_phantoms~~ | ~~14~~ |
+| [Coordinate Compass](https://github.com/Nuhser/coordinate_compass "Coordinate Compass") | coordinate_compass | 15 |
 
 UNID 1 is reserved to call the help message.
