@@ -9,4 +9,4 @@ scoreboard players operation $tmp nc_square = $i nc_square
 scoreboard players operation $tmp nc_square *= $i nc_square
 
 # compare $i^2 to $n
-execute if score $tmp nc_square < $n nc_square run function nuhser_core:math/square_find
+execute if score $tmp nc_square < $n nc_square run function nuhser_core:math/_square_find
