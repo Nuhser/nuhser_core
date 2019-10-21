@@ -27,6 +27,6 @@ Here's a list of all nuhser-datapacks and their UNID (Unique-Nuhser-ID):
 | ~~Mutating Phantoms~~ | ~~mutating_phantoms~~ | ~~14~~ |
 | [Coordinate Compass](https://github.com/Nuhser/coordinate_compass "Coordinate Compass") | coordinate_compass | 15 |
 | MagiCraft (*Comming Soon*) | magicraft | 16 |
-| Nutrition | nutrition | 17 |
+| [Nutrition](https://github.com/Nuhser/nutrition "Nutrition") | nutrition | 17 |
 
 UNID 1 is reserved to call the help message.
