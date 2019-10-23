@@ -56,9 +56,9 @@ scoreboard players set $8 nuhser_constants 8
 scoreboard players set $9 nuhser_constants 9
 scoreboard players set $10 nuhser_constants 10
 scoreboard players set $20 nuhser_constants 20
-scoreboard players set $1000 nuhser_constants 100
+scoreboard players set $100 nuhser_constants 100
 scoreboard players set $1000 nuhser_constants 1000
-scoreboard players set $1000 nuhser_constants 10000
+scoreboard players set $10000 nuhser_constants 10000
 
 #set gamerules
 tellraw @a ["",{"text":"nuhser_core: Changing gamerules for commandBlockOutput, disableElytraMovementCheck and spawnRadius...","color":"yellow"}]
