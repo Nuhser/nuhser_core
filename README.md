@@ -20,7 +20,7 @@ Here's a list of all nuhser-datapacks and their UNID (Unique-Nuhser-ID):
 | [Modify Mobs](https://github.com/Nuhser/modify_mobs "Modify Mobs") | modify_mobs | 7 |
 | [Speedpaths](https://github.com/Nuhser/speedpaths "Speedpaths") | speedpaths | 8 |
 | [Multiplayer Sleep](https://github.com/Nuhser/multiplayer_sleep "Multiplayer Sleep") | multiplayer_sleep | 9 |
-| Anti Collision | anti_collision | 10 |
+| ~~Anti Collision~~ | ~~anti_collision~~ | ~~10~~ |
 | [Admin Book](https://github.com/Nuhser/admin_book "Admin Book") | admin_book | 11 |
 | [Grave Stones](https://github.com/Nuhser/grave_stones "Grave Stones") | grave_stones | 12 |
 | Biome Detector | biome_detector | 13 |
