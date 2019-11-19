@@ -23,10 +23,12 @@ Here's a list of all nuhser-datapacks and their UNID (Unique-Nuhser-ID):
 | ~~Anti Collision~~ | ~~anti_collision~~ | ~~10~~ |
 | [Admin Book](https://github.com/Nuhser/admin_book "Admin Book") | admin_book | 11 |
 | [Grave Stones](https://github.com/Nuhser/grave_stones "Grave Stones") | grave_stones | 12 |
-| Biome Detector | biome_detector | 13 |
+| Biome Detector (*update in progress*)| biome_detector | 13 |
 | ~~Mutating Phantoms~~ | ~~mutating_phantoms~~ | ~~14~~ |
 | [Coordinate Compass](https://github.com/Nuhser/coordinate_compass "Coordinate Compass") | coordinate_compass | 15 |
 | MagiCraft (*Comming Soon*) | magicraft | 16 |
 | [Nutrition](https://github.com/Nuhser/nutrition "Nutrition") | nutrition | 17 |
+| Realistic Temperature (*work in progress*) | realistic_temperature | 18 |
+| Better Trades (*work in progress*) | better_trades | 19 |
 
 UNID 1 is reserved to call the help message.
