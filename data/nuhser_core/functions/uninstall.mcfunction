@@ -1,31 +1,28 @@
-#
-# Desc.: Remove all scoreboards creted by nuhser_core.
-# Called By: player
-# @s: player
-#
+#> Remove all scoreboards creted by nuhser_core.
+# Called By: player <PLAYER>
 
-#give message
+# give message
 tellraw @a ["",{"text":"Start uninstallation...","color":"dark_purple"}]
 tellraw @a ["",{"text":"Removing all scoreboards for Nuhser Core...","color":"yellow"}]
 
-#main scoreboards
+# main scoreboards
 scoreboard objectives remove nc_coat_usage
 scoreboard objectives remove nc_sneak_tick
 scoreboard objectives remove nc_sneak_second
 scoreboard objectives remove nc_square
-scoreboard objectives remove nuhser_rng
-scoreboard objectives remove nuhser_constants
-scoreboard objectives remove nuhser_id
+scoreboard objectives remove nc_rng
+scoreboard objectives remove nc_constants
+scoreboard objectives remove nc_id
 scoreboard objectives remove help
 
-#generals
+# generals
 scoreboard objectives remove Deaths
 scoreboard objectives remove Player_Kills
 scoreboard objectives remove Total_Kills
 scoreboard objectives remove Health
 scoreboard objectives remove Level
 
-#statistics
+# statistics
 scoreboard objectives remove Animals_Bred
 scoreboard objectives remove Distance_Flown
 scoreboard objectives remove Distance_on_Boat
@@ -62,20 +59,22 @@ scoreboard objectives remove Lec_Interactions
 scoreboard objectives remove Stonecutter_Int
 scoreboard objectives remove Loom_Interact
 scoreboard objectives remove Cartog_Interact
+scoreboard objectives remove Anvil_Int
+scoreboard objectives remove Grindstone_Int
 
-#mined blocks
-scoreboard objectives remove Stoned_Mined
+# mined blocks
+scoreboard objectives remove Stone_Mined
 scoreboard objectives remove Dirt_Mined
 
-#give message
+# give message
 tellraw @a ["",{"text":"Nuhser Core successful uninstalled!","color":"green"}]
 tellraw @a ["",{"text":"Starting uninstallation of all nusher mods...","color":"dark_purple"}]
 
-#uninstall every other nuhser mod
+# uninstall every other nuhser mod
 function #nuhser_core:uninstall
 
-#give message
+# give message
 tellraw @a ["",{"text":"All nuhser mods successful uninstalled!","color":"green"}]
 
-#disable nuhser_core
+# disable nuhser_core
 datapack disable "file/nuhser_core"
