@@ -1,6 +1,6 @@
 {
   "replace": false,
 	"values": [
-		"nuhser_core:tick"
+		"nuhser_core:_tick"
 	]
 }

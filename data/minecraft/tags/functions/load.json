@@ -1,6 +1,6 @@
 {
   "replace": false,
 	"values": [
-		"nuhser_core:init"
+		"nuhser_core:_init"
 	]
 }
