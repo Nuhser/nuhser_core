@@ -11,7 +11,7 @@ Here's a list of all nuhser-datapacks and their UNID (Unique-Nuhser-ID):
 
 | Datapack                                                                                   | Namespace             | UNID | Latest Minecraft Version |
 | ------------------------------------------------------------------------------------------ | --------------------- | ---- | ------------------------ |
-| Nuhser-Core                                                                                | nuhser_core           | 0    | 1.14.4                   |
+| Nuhser-Core                                                                                | nuhser_core           | 0    | 1.15                     |
 | [More Mob Heads](https://github.com/Nuhser/more_mob_heads "More Mob Heads")                | more_mob_heads        | 2    | 1.15                     |
 | [Nuhser Knowledge](https://github.com/Nuhser/nuhser_knowledge "Nuhser Knowledge")          | nuhser_knowledge      | 3    | 1.15                     |
 | [Better Armor Stands](https://github.com/Nuhser/better_armor_stands "Better Armor Stands") | better_armor_stands   | 4    | 1.15                     |
@@ -22,12 +22,12 @@ Here's a list of all nuhser-datapacks and their UNID (Unique-Nuhser-ID):
 | [Multiplayer Sleep](https://github.com/Nuhser/multiplayer_sleep "Multiplayer Sleep")       | multiplayer_sleep     | 9    | 1.15                     |
 | ~~Anti Collision~~                                                                         | ~~anti_collision~~    | 10   | 1.13                     |
 | [Admin Book](https://github.com/Nuhser/admin_book "Admin Book")                            | admin_book            | 11   | 1.14.4                   |
-| [Grave Stones](https://github.com/Nuhser/grave_stones "Grave Stones")                      | grave_stones          | 12   | 1.14.4                   |
+| [Grave Stones](https://github.com/Nuhser/grave_stones "Grave Stones")                      | grave_stones          | 12   | 1.15                     |
 | Biome Detector (*update in progress*)                                                      | biome_detector        | 13   | 1.13                     |
 | ~~Mutating Phantoms~~                                                                      | ~~mutating_phantoms~~ | 14   | 1.13                     |
-| [Coordinate Compass](https://github.com/Nuhser/coordinate_compass "Coordinate Compass")    | coordinate_compass    | 15   | 1.14.4                   |
+| [Coordinate Compass](https://github.com/Nuhser/coordinate_compass "Coordinate Compass")    | coordinate_compass    | 15   | 1.15                     |
 | MagiCraft (*Comming Soon*)                                                                 | magicraft             | 16   | ?                        |
-| [Nutrition](https://github.com/Nuhser/nutrition "Nutrition")                               | nutrition             | 17   | 1.14.4                   |
+| [Nutrition](https://github.com/Nuhser/nutrition "Nutrition")                               | nutrition             | 17   | 1.15                     |
 | Realistic Temperature (*work in progress*)                                                 | realistic_temperature | 18   | ?                        |
 | Better Trades (*work in progress*)                                                         | better_trades         | 19   | 1.14.4                   |
 | Noteblock Composer (*work in progress*)                                                    | noteblock_composer    | 20   | 1.14.4                   |
