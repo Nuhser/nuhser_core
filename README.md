@@ -26,9 +26,9 @@ Here's a list of all nuhser-datapacks and their ID:
 | Biome Detector (*update in progress*)                                                      | biome_detector        | 13   | 1.13                     |
 | ~~Mutating Phantoms~~                                                                      | ~~mutating_phantoms~~ | 14   | 1.13                     |
 | [Coordinate Compass](https://github.com/Nuhser/coordinate_compass "Coordinate Compass")    | coordinate_compass    | 15   | 1.15                     |
-| MagiCraft (*work in progress*)                                                             | magicraft             | 16   | -                        |
+| MagiCraft (*planed*)                                                                       | magicraft             | 16   | -                        |
 | [Nutrition](https://github.com/Nuhser/nutrition "Nutrition")                               | nutrition             | 17   | 1.15                     |
-| Realistic Temperature (*work in progress*)                                                 | realistic_temperature | 18   | -                        |
+| Realistic Temperature (*planed*)                                                           | realistic_temperature | 18   | -                        |
 | Better Trades (*work in progress*)                                                         | better_trades         | 19   | 1.14.4                   |
 | Noteblock Composer (*work in progress*)                                                    | noteblock_composer    | 20   | 1.14.4                   |
 
