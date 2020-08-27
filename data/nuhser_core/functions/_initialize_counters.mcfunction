@@ -51,4 +51,6 @@ scoreboard objectives add Grindstone_Int minecraft.custom:interact_with_grindsto
 
 # mined blocks
 scoreboard objectives add Stone_Mined minecraft.mined:minecraft.stone "Stone Mined"
+scoreboard objectives add Debris_Mined minecraft.mined:minecraft.ancient_debris "Ancient Debris Mined"
+scoreboard objectives add Diamond_Mined minecraft.mined:minecraft.diamond_ore "Diamond Ore Mined"
 scoreboard objectives add Dirt_Mined minecraft.mined:minecraft.dirt "Dirt Mined"
