@@ -2,9 +2,9 @@
   "replace": "false",
   "values": [
     "minecraft:stone",
-    "minecraft:cobblestone",
     "minecraft:andesite",
     "minecraft:granite",
-    "minecraft:diorite"
+    "minecraft:diorite",
+    "#minecraft:stone_crafting_materials"
   ]
 }
