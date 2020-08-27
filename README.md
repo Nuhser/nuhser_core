@@ -12,7 +12,7 @@ Here's a list of all nuhser-datapacks and their ID:
 | Datapack                                                                                   | Namespace              | UNID | Latest Minecraft Version | Comment                   |
 | ------------------------------------------------------------------------------------------ | ---------------------- | ---- | ------------------------ | ------------------------- |
 | Nuhser-Core                                                                                | nuhser_core            | 0    | 1.15                     |                           |
-| [More Mob Heads](https://github.com/Nuhser/more_mob_heads "More Mob Heads")                | more_mob_heads         | 2    | 1.15                     |                           |
+| [More Mob Heads](https://github.com/Nuhser/more_mob_heads "More Mob Heads")                | more_mob_heads         | 2    | 1.16.2                   |                           |
 | [Nuhser Knowledge](https://github.com/Nuhser/nuhser_knowledge "Nuhser Knowledge")          | nuhser_knowledge       | 3    | 1.16.2                   |                           |
 | [Better Armor Stands](https://github.com/Nuhser/better_armor_stands "Better Armor Stands") | better_armor_stands    | 4    | 1.15                     |                           |
 | [Auto Plant](https://github.com/Nuhser/auto_plant "Auto Plant")                            | auto_plant             | 5    | 1.15                     |                           |
