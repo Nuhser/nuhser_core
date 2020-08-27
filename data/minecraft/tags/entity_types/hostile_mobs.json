@@ -13,10 +13,13 @@
     "minecraft:ghast",
     "minecraft:giant",
     "minecraft:guardian",
+    "minecraft:hoglin",
     "minecraft:husk",
     "minecraft:illusioner",
     "minecraft:magma_cube",
     "minecraft:phantom",
+    "minecraft:piglin",
+    "minecraft:piglin_brute",
     "minecraft:pillager",
     "minecraft:ravager",
     "minecraft:shulker",
@@ -30,8 +33,9 @@
     "minecraft:witch",
     "minecraft:wither",
     "minecraft:wither_skeleton",
+    "minecraft:zoglin",
     "minecraft:zombie",
-    "minecraft:zombie_pigman",
-    "minecraft:zombie_villager"
+    "minecraft:zombie_villager",
+    "minecraft:zombified_piglin"
   ]
 }
