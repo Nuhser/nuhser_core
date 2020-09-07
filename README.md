@@ -16,7 +16,7 @@ Here's a list of all nuhser-datapacks and their ID:
 | [Nuhser Knowledge](https://github.com/Nuhser/nuhser_knowledge "Nuhser Knowledge")          | nuhser_knowledge       | 3    | 1.16.2                   |                           |
 | [Better Armor Stands](https://github.com/Nuhser/better_armor_stands "Better Armor Stands") | better_armor_stands    | 4    | 1.15                     |                           |
 | [Auto Plant](https://github.com/Nuhser/auto_plant "Auto Plant")                            | auto_plant             | 5    | 1.15                     |                           |
-| [Better Concrete](https://github.com/Nuhser/better_concrete "Better Concrete")             | better_concrete        | 6    | 1.15                     |                           |
+| [Better Concrete](https://github.com/Nuhser/better_concrete "Better Concrete")             | better_concrete        | 6    | 1.16.2                   |                           |
 | [Modify Mobs](https://github.com/Nuhser/modify_mobs "Modify Mobs")                         | modify_mobs            | 7    | 1.15                     |                           |
 | [Speedpaths](https://github.com/Nuhser/speedpaths "Speedpaths")                            | speedpaths             | 8    | 1.15                     |                           |
 | [Multiplayer Sleep](https://github.com/Nuhser/multiplayer_sleep "Multiplayer Sleep")       | multiplayer_sleep      | 9    | 1.15                     |                           |
