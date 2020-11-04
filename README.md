@@ -11,15 +11,15 @@ Here's a list of all nuhser-datapacks and their ID:
 
 | Datapack                                                                                   | Namespace              | UNID | Latest Minecraft Version | Comment                   |
 | ------------------------------------------------------------------------------------------ | ---------------------- | ---- | ------------------------ | ------------------------- |
-| Nuhser-Core                                                                                | nuhser_core            | 0    | 1.16.2                   |                           |
-| [More Mob Heads](https://github.com/Nuhser/more_mob_heads "More Mob Heads")                | more_mob_heads         | 2    | 1.16.2                   |                           |
-| [Nuhser Knowledge](https://github.com/Nuhser/nuhser_knowledge "Nuhser Knowledge")          | nuhser_knowledge       | 3    | 1.16.2                   |                           |
-| [Better Armor Stands](https://github.com/Nuhser/better_armor_stands "Better Armor Stands") | better_armor_stands    | 4    | 1.16.2                   |                           |
+| Nuhser-Core                                                                                | nuhser_core            | 0    | 1.16.4                   |                           |
+| [More Mob Heads](https://github.com/Nuhser/more_mob_heads "More Mob Heads")                | more_mob_heads         | 2    | 1.16.4                   |                           |
+| [Nuhser Knowledge](https://github.com/Nuhser/nuhser_knowledge "Nuhser Knowledge")          | nuhser_knowledge       | 3    | 1.16.4                   |                           |
+| [Better Armor Stands](https://github.com/Nuhser/better_armor_stands "Better Armor Stands") | better_armor_stands    | 4    | 1.16.4                   |                           |
 | [Auto Plant](https://github.com/Nuhser/auto_plant "Auto Plant")                            | auto_plant             | 5    | 1.15                     |                           |
-| [Better Concrete](https://github.com/Nuhser/better_concrete "Better Concrete")             | better_concrete        | 6    | 1.16.2                   |                           |
+| [Better Concrete](https://github.com/Nuhser/better_concrete "Better Concrete")             | better_concrete        | 6    | 1.16.4                   |                           |
 | [Modify Mobs](https://github.com/Nuhser/modify_mobs "Modify Mobs")                         | modify_mobs            | 7    | 1.15                     |                           |
 | [Speedpaths](https://github.com/Nuhser/speedpaths "Speedpaths")                            | speedpaths             | 8    | 1.15                     |                           |
-| [Multiplayer Sleep](https://github.com/Nuhser/multiplayer_sleep "Multiplayer Sleep")       | multiplayer_sleep      | 9    | 1.15                     |                           |
+| [Multiplayer Sleep](https://github.com/Nuhser/multiplayer_sleep "Multiplayer Sleep")       | multiplayer_sleep      | 9    | 1.16.4                   |                           |
 | ~~Anti Collision~~                                                                         | ~~anti_collision~~     | 10   | 1.13                     | Gets no longer updated.   |
 | [Admin Book](https://github.com/Nuhser/admin_book "Admin Book")                            | admin_book             | 11   | 1.14.4                   |                           |
 | [Grave Stones](https://github.com/Nuhser/grave_stones "Grave Stones")                      | grave_stones           | 12   | 1.15                     |                           |
