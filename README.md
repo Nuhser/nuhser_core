@@ -29,7 +29,6 @@ Here's a list of all nuhser-datapacks and their ID:
 | MagiCraft                                                                                  | magicraft              | 16   | -                        | Work started. No release. |
 | [Nutrition](https://github.com/Nuhser/nutrition "Nutrition")                               | nutrition              | 17   | 1.15                     |                           |
 | Realistic Temperature                                                                      | realistic_temperature  | 18   | -                        | Work started. No release. |
-| Better Trades                                                                              | better_trades          | 19   | 1.14.4                   | Work started. No release. |
 | ~~Noteblock Composer~~                                                                     | ~~noteblock_composer~~ | 20   | 1.14.4                   | Gets no longer updated.   |
 
 _UNID 1 is reserved to call the help message._
