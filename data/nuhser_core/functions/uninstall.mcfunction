@@ -6,9 +6,12 @@ tellraw @a ["",{"text":"Start uninstallation...","color":"dark_purple"}]
 tellraw @a ["",{"text":"Removing all scoreboards for Nuhser Core...","color":"yellow"}]
 
 # main scoreboards
-scoreboard objectives remove nc_coat_usage
+scoreboard objectives remove nc_coas_usage
+scoreboard objectives remove nc_foas_usage
 scoreboard objectives remove nc_sneak_tick
 scoreboard objectives remove nc_sneak_second
+scoreboard objectives remove nc_ray_yaw
+scoreboard objectives remove nc_ray_pitch
 scoreboard objectives remove nc_square
 scoreboard objectives remove nc_rng
 scoreboard objectives remove nc_constants
