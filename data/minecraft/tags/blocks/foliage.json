@@ -1,0 +1,30 @@
+{
+	"replace": false,
+	"values": [
+        "#minecraft:corals",
+        "#minecraft:crops",
+        "#minecraft:dead_corals",
+        "#minecraft:fire",
+        "#minecraft:flowers",
+        "#minecraft:fungi",
+        "#minecraft:saplings",
+        "minecraft:bamboo",
+        "minecraft:crimson_roots",
+        "minecraft:dead_bush",
+        "minecraft:fern",
+        "minecraft:grass",
+        "minecraft:kelp",
+        "minecraft:large_fern",
+        "minecraft:lily_pad",
+        "minecraft:nether_sprouts",
+        "minecraft:sea_pickle",
+        "minecraft:seagrass",
+        "minecraft:sugar_cane",
+        "minecraft:tall_grass",
+        "minecraft:tall_seagrass",
+        "minecraft:twisting_vines",
+        "minecraft:vine",
+        "minecraft:warped_roots",
+        "minecraft:weeping_vines"
+	]
+}

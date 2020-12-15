@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:crimson_fungus",
+        "minecraft:brown_mushroom",
+        "minecraft:red_mushroom",
+        "minecraft:warped_fungus"
+    ]
+}
