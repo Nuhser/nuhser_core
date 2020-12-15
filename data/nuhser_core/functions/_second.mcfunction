@@ -1,5 +1,6 @@
 #> Runs ones per second.
-# Called By: #nuhser_core:second <SERVER>
+# Called By: Scheduling <SERVER>
+
 
 # store current day to constant
 execute store result score $day nc_constants run time query day
