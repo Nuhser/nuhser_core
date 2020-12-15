@@ -1,0 +1,12 @@
+{
+	"replace": false,
+	"values": [
+        "#minecraft:foliage",
+        "#minecraft:portals",
+        "minecraft:bubble_column",
+        "minecraft:cobweb",
+        "minecraft:lava",
+        "minecraft:tripwire",
+        "minecraft:water"
+	]
+}
